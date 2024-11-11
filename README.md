@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Anderson Fenix (@anderson-fenix)
+- 👀 I’m interested in learning more about technology, programming, and developing my skills in IT.
+- 🌱 I’m currently learning the basics of several technical skills as I finish my last year of technical high school in IT.
+- 💞️ I’m looking to collaborate on beginner-friendly projects, especially in web development or IT support, where I can learn and grow.
+- 📫 How to reach me: You can contact me via email at [marioandelsonmario@gmail.com] or through LinkedIn [seu-link-linkedin].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love discovering new technologies and am always eager to learn more!
